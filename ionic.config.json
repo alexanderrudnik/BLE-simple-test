@@ -1,0 +1,7 @@
+{
+  "name": "ph-ble",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
